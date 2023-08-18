@@ -1,0 +1,8 @@
+C:\Users\moham\OneDrive\Documents\SQL Server Management Studio\SQL Phase 2\Assignments\Assignment6\ConAppConnectionwithsql\ConAppConnectionwithsql\bin\Debug\ConAppConnectionwithsql.exe.config
+C:\Users\moham\OneDrive\Documents\SQL Server Management Studio\SQL Phase 2\Assignments\Assignment6\ConAppConnectionwithsql\ConAppConnectionwithsql\bin\Debug\ConAppConnectionwithsql.exe
+C:\Users\moham\OneDrive\Documents\SQL Server Management Studio\SQL Phase 2\Assignments\Assignment6\ConAppConnectionwithsql\ConAppConnectionwithsql\bin\Debug\ConAppConnectionwithsql.pdb
+C:\Users\moham\OneDrive\Documents\SQL Server Management Studio\SQL Phase 2\Assignments\Assignment6\ConAppConnectionwithsql\ConAppConnectionwithsql\obj\Debug\ConAppConnectionwithsql.csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Documents\SQL Server Management Studio\SQL Phase 2\Assignments\Assignment6\ConAppConnectionwithsql\ConAppConnectionwithsql\obj\Debug\ConAppConnectionwithsql.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\OneDrive\Documents\SQL Server Management Studio\SQL Phase 2\Assignments\Assignment6\ConAppConnectionwithsql\ConAppConnectionwithsql\obj\Debug\ConAppConnectionwithsql.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Documents\SQL Server Management Studio\SQL Phase 2\Assignments\Assignment6\ConAppConnectionwithsql\ConAppConnectionwithsql\obj\Debug\ConAppConnectionwithsql.exe
+C:\Users\moham\OneDrive\Documents\SQL Server Management Studio\SQL Phase 2\Assignments\Assignment6\ConAppConnectionwithsql\ConAppConnectionwithsql\obj\Debug\ConAppConnectionwithsql.pdb
